@@ -6,4 +6,4 @@ apporitonment, [where he says](https://youtu.be/6JN4RI7nkes?t=438) how he though
 the US doled out the House seats (which is not how they do it [see "naive implementation"])
 
 I wanted to do it so here it is.
-I was tired, the code is bad, not worth refactoring, so here it will stay forever -- ugly
+I was tired, the code is bad, not worth refactoring, so here it will stay forever ✨ugly✨ 
